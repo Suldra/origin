@@ -1,0 +1,15 @@
+P:\git education\Examples\Exam1\bin\Debug\net6.0\Exam1.exe
+P:\git education\Examples\Exam1\bin\Debug\net6.0\Exam1.deps.json
+P:\git education\Examples\Exam1\bin\Debug\net6.0\Exam1.runtimeconfig.json
+P:\git education\Examples\Exam1\bin\Debug\net6.0\Exam1.dll
+P:\git education\Examples\Exam1\bin\Debug\net6.0\Exam1.pdb
+P:\git education\Examples\Exam1\obj\Debug\net6.0\Exam1.csproj.AssemblyReference.cache
+P:\git education\Examples\Exam1\obj\Debug\net6.0\Exam1.GeneratedMSBuildEditorConfig.editorconfig
+P:\git education\Examples\Exam1\obj\Debug\net6.0\Exam1.AssemblyInfoInputs.cache
+P:\git education\Examples\Exam1\obj\Debug\net6.0\Exam1.AssemblyInfo.cs
+P:\git education\Examples\Exam1\obj\Debug\net6.0\Exam1.csproj.CoreCompileInputs.cache
+P:\git education\Examples\Exam1\obj\Debug\net6.0\Exam1.dll
+P:\git education\Examples\Exam1\obj\Debug\net6.0\refint\Exam1.dll
+P:\git education\Examples\Exam1\obj\Debug\net6.0\Exam1.pdb
+P:\git education\Examples\Exam1\obj\Debug\net6.0\Exam1.genruntimeconfig.cache
+P:\git education\Examples\Exam1\obj\Debug\net6.0\ref\Exam1.dll
